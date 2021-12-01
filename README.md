@@ -20,7 +20,7 @@
 ## 設計書
 後日提出<br>
 ・ER図<br>
-https://app.diagrams.net/#G1YTqqCqX76iA_YrZ1r8Mm890nM57kksG_<br>
+https://drive.google.com/file/d/1YTqqCqX76iA_YrZ1r8Mm890nM57kksG_/view?usp=sharing<br>
 ・テーブル定義書<br>
 ・詳細設計<br>
 
